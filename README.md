@@ -1,17 +1,15 @@
 # Hamburger Hazırlama Projesi:
 
-## 1-Malzeme Listesi: Tüm malzemelerden 5 er adet olduğu varsayılacaktır.
-Marul
-Turşu  
-Paket Sos  
-Soğan  
-Köfte  
-Tavuk  
-Domates  
-Ekmek  
-Patates  
-Cola  
+## Projenin çalıştırılması.
+projenin çalışması için prompts kurulması gerekmektedir. prompts kullanıcıdan cli üzerinden veri alınmasında kullanılmıştır. indirmek için konsola 'npm i prompts' yazılması gerekmektedir.
 
+## Proje görüntüleri
+
+
+![  ](./images/1.png)
+![  ](./images/2.png)
+![  ](./images/3.png)
+![  ](./images/4.png)
 
 ## 2-İş Süreci:
 
