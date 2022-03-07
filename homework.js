@@ -132,7 +132,7 @@ async function chooseMeatType() {
     name: "meatType",
     message: "Köftenizin pişme derecesi ne olsun?",
     choices: [
-      { title: "az pişmiş", value: "raw" },
+      { title: "az pişmiş", value: "rare" },
       { title: "orta", value: "medium" },
       { title: "Çok pişmiş", value: "well" },
     ],
